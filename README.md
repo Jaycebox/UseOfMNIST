@@ -1,10 +1,10 @@
-# UseOfMinst
+# UseOfMNIST
 
 ---
 
 
 
-Minst is a great small database which is widely used in sample project concerning AI.
+MNIST is a great small database which is widely used in sample project concerning AI.
 
 Here is the [website of MNIST](http://yann.lecun.com/exdb/mnist/), you can download database and put it in the folder named "Data".
 
